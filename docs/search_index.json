@@ -1,6 +1,7 @@
 [
 ["index.html", "Alice in Wonderland Chapter 1 Down the rabbit-hole", " Alice in Wonderland Lewis Carroll 2020-11-06 Chapter 1 Down the rabbit-hole "],
 ["a-sample-bookdown-chapter.html", "Chapter 2 A sample bookdown chapter", " Chapter 2 A sample bookdown chapter Today is November 6, 2020 "],
-["a-caucus-race-and-a-long-tale.html", "Chapter 3 A caucus-race and a long tale", " Chapter 3 A caucus-race and a long tale "],
-["the-pool-of-tears.html", "Chapter 4 The pool of tears", " Chapter 4 The pool of tears "]
+["test-chapter.html", "Chapter 3 test chapter", " Chapter 3 test chapter "],
+["a-caucus-race-and-a-long-tale.html", "Chapter 4 A caucus-race and a long tale", " Chapter 4 A caucus-race and a long tale "],
+["the-pool-of-tears.html", "Chapter 5 The pool of tears", " Chapter 5 The pool of tears "]
 ]
