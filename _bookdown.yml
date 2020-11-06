@@ -6,3 +6,8 @@ view: https://github.com/jtr13/wonderland/blob/master/%s
 language:
   ui:
     chapter_name: "Chapter "
+    
+rmd_files: ["index.Rmd",
+  "04-sample.Rmd",
+  "03-race.Rmd",
+  "02-tears.Rmd"]
