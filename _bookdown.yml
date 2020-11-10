@@ -11,4 +11,5 @@ rmd_files: ["index.Rmd",
   "04-sample.Rmd",
   "05-test.Rmd",
   "03-race.Rmd",
-  "02-tears.Rmd"]
+  "02-tears.Rmd",
+  "some project.Rmd"]
